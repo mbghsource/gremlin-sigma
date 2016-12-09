@@ -25,7 +25,7 @@
   "homepage": "https://github.com/gulthor/gremlin-sigma",
   "dependencies": {
     "es6-shim": "^0.19.1",
-    "gremlin-core-js": "git://github.com/gulthor/gremlin-core-js",
+    "gremlin-core-js": "git://github.com/mbghsource/gremlin-core-js",
     "lazy.js": "^0.3.2",
     "underscore": "^1.7.0"
   },
